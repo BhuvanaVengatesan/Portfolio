@@ -16,4 +16,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Power BI
 | Project Link | Area of Analysis | Project Description |Dashboard|
 |---|---|---|---|
-|[Blinkit Sales Analyze](https://github.com/BhuvanaVengatesan/blinkit_power_bi_dashboard/blob/main/blinkit%20analysis.pdf)|Data Visualization|Blinkit wants to enhance business success by leveraging data analysis techniques, particularly to conduct a comprehensive analysis of sales performance, customer satisfaction and inventory distribution using various KPIs and visualization in Power BI.|[link](https://github.com/BhuvanaVengatesan/blinkit_power_bi_dashboard/blob/main/README.md)|
+|[Blinkit Sales Analyze](https://github.com/BhuvanaVengatesan/blinkit_power_bi_dashboard/blob/main/README.md)|Data Visualization|Blinkit wants to enhance business success by leveraging data analysis techniques, particularly to conduct a comprehensive analysis of sales performance, customer satisfaction and inventory distribution using various KPIs and visualization in Power BI.|[link](https://github.com/BhuvanaVengatesan/blinkit_power_bi_dashboard/blob/main/README.md)|
